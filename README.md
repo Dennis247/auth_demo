@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a simple demo of an authentication ui.
+This project is a simple authentication ui demo.
 
 ![alt text](https://github.com/Dennis247/auth_demo/blob/master/lib/ss/splash.png)
 
